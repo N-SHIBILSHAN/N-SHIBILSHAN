@@ -203,7 +203,6 @@
 <div align="center">
 
 > **"First, solve the problem. Then, write the code."**  
-> — John Johnson
 
 </div>
 
@@ -236,9 +235,6 @@ Sunday      ████████ 55%
 
 # 🐍 Snake Contribution Animation
 
-> After creating the GitHub Action (I'll give it in Part 3), add this image:
-
-```markdown
 <p align="center">
 <img src="https://github.com/N-SHIBILSHAN/N-SHIBILSHAN/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>

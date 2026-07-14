@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **N SHIBILSHAN**
+# 👋 **N SHIBILSHAN**
 
-### 🚀 Full Stack Developer • AI Enthusiast • Computer Science Student
+###  Full Stack Developer • AI Enthusiast • Computer Science Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Developer;MERN+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 

@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 💻 Passionate about building real-world software solutions.
 
@@ -24,7 +24,7 @@
 
 🚀 Currently building modern AI and MERN Stack applications.
 
-🌱 Learning
+  Learning
 - MERN Stack
 - Artificial Intelligence
 - Cloud Computing

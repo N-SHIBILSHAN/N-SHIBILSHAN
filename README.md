@@ -1,9 +1,4 @@
 <div align="center">
-
-#  **N SHIBILSHAN**
-
-###  Full Stack Developer • AI Enthusiast • Computer Science Student
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=N%20SHIBILSHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Developer&descAlignY=58"/>
 </p>

@@ -4,7 +4,9 @@
 
 ###  Full Stack Developer • AI Enthusiast • Computer Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Developer;MERN+Stack+Developer;Java+%7C+Python+%7C+React;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=N%20SHIBILSHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Developer&descAlignY=58"/>
+</p>
 
 <br>
 

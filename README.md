@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 #  About Me
 
@@ -55,7 +54,6 @@
 
 </p>
 
----
 
 # 💻 Tech Stack
 
@@ -65,7 +63,6 @@
 
 </p>
 
----
 
 # 🛠 Languages
 
@@ -81,7 +78,6 @@
 
 </p>
 
----
 
 # ⚡ Frontend
 
@@ -97,7 +93,6 @@
 
 </p>
 
----
 
 # ⚙ Backend
 
@@ -111,7 +106,6 @@
 
 </p>
 
----
 
 # 🗄 Database
 
@@ -125,7 +119,6 @@
 
 </p>
 
----
 
 # 🚀 Current Focus
 
@@ -139,7 +132,6 @@
 
 ✨ Cloud Deployment
 
----
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -150,7 +142,6 @@
 
 </div>
 
----
 
 # 🔥 GitHub Streak
 
@@ -160,7 +151,6 @@
 
 </div>
 
----
 
 # 📈 Contribution Graph
 
@@ -170,7 +160,6 @@
 
 </div>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -180,7 +169,6 @@
 
 </div>
 
----
 
 # 📌 Developer Dashboard
 
@@ -196,7 +184,6 @@
 
 </div>
 
----
 
 # 💡 Daily Motivation
 
@@ -206,7 +193,6 @@
 
 </div>
 
----
 
 # ⚡ Fun Facts
 
@@ -217,7 +203,6 @@
 - ☕ Coffee + Coding = Productivity
 - 🌍 Always exploring new technologies
 
----
 
 # 📅 Coding Activity
 
@@ -240,7 +225,6 @@ Sunday      ████████ 55%
 </p>
 ```
 
----
 
 # 💎 Profile Highlights
 
@@ -258,7 +242,6 @@ Sunday      ████████ 55%
 
 </div>
 
----
 # 🚀 Featured Projects
 
 <table>
@@ -361,7 +344,6 @@ Expected Graduation: **2028**
 
 </div>
 
----
 
 # 📫 Contact Me
 
@@ -381,7 +363,6 @@ Expected Graduation: **2028**
 
 </p>
 
----
 
 <div align="center">
 

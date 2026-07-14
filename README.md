@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 **N SHIBILSHAN**
+#  **N SHIBILSHAN**
 
 ###  Full Stack Developer • AI Enthusiast • Computer Science Student
 

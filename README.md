@@ -305,12 +305,6 @@ Expected Graduation: **2028**
 
 ---
 
-# 📜 Certifications
-
-
-
-🏅 NPTEL – Internet of Things (IoT)
-
 ---
 
 # 🎯 2026 Goals

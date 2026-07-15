@@ -210,17 +210,7 @@ Wednesday   █████████████ 75%
 Thursday    ███████████████ 85%
 Friday      █████████████████ 95%
 Saturday    ███████████ 70%
-Sunday      ████████ 55%
-```
-
----
-
-# 🐍 Snake Contribution Animation
-
-<p align="center">
-<img src="https://github.com/N-SHIBILSHAN/N-SHIBILSHAN/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-```
+Sunday      ████████ 60%
 
 
 # 💎 Profile Highlights

@@ -1,32 +1,38 @@
 <div align="center">
-<p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=N%20SHIBILSHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Developer&descAlignY=58"/>
-</p>
 
-<br>
+# 👋 Hi, I'm N SHIBILSHAN
 
-<img src="https://komarev.com/ghpvc/?username=N-SHIBILSHAN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+### 🚀 Full Stack Developer | AI Developer | Computer Science Student
+
+<img src="https://komarev.com/ghpvc/?username=N-SHIBILSHAN&label=Profile%20Views&style=for-the-badge"/>
 
 </div>
 
+---
 
-#  About Me
+# 💫 About Me
 
 💻 Passionate about building real-world software solutions.
 
-🎓 BE Computer Science Engineering Student
+🎓 **BE Computer Science Engineering**  
+Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
-🤖 Interested in Artificial Intelligence, Web Development and Cloud Computing.
+🤖 Interested in Artificial Intelligence, Full Stack Development, Computer Vision, and Cloud Computing.
 
-🚀 Currently building modern AI and MERN Stack applications.
+🚀 Currently building modern AI-powered applications and scalable MERN Stack projects.
 
-  Learning
+## 🌱 Currently Learning
+
 - MERN Stack
 - Artificial Intelligence
 - Cloud Computing
 - System Design
+- Data Structures & Algorithms
 
-🎯 Goal
+## 🎯 Career Goal
+
 - Become a Software Engineer
 - Build impactful AI products
 - Contribute to Open Source
@@ -37,20 +43,13 @@
 
 <p align="center">
 
-<a href="https://github.com/N-SHIBILSHAN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shibilshan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shibilshan714@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/N-SHIBILSHAN"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/shibilshan"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:shibilshan714@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 </p>
 
+---
 
 # 💻 Tech Stack
 
@@ -60,254 +59,110 @@
 
 </p>
 
-
-# 🛠 Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
-
-# ⚡ Frontend
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-</p>
-
-
-# ⚙ Backend
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-
-</p>
-
-
-# 🗄 Database
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-</p>
-
-
-# 🚀 Current Focus
-
-✨ AI SaaS Applications
-
-✨ MERN Stack Development
-
-✨ Computer Vision
-
-✨ REST APIs
-
-✨ Cloud Deployment
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=N-SHIBILSHAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-SHIBILSHAN&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=N-SHIBILSHAN&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-SHIBILSHAN&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=N-SHIBILSHAN&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
-
-# 📌 Developer Dashboard
-
-<div align="center">
-
-| 💻 Coding | 🤖 AI | 🚀 Full Stack | ☁ Cloud |
-|:---------:|:----:|:-------------:|:-------:|
-| ⭐ Java | ⭐ Python | ⭐ MERN | ⭐ Learning |
-
-| 🎯 Goal | 📚 Learning | 🔥 Focus | ❤️ Open Source |
-|:-------:|:-----------:|:--------:|:--------------:|
-| Software Engineer | System Design | AI Projects | Contributions |
-
-</div>
-
-
-# 💡 Daily Motivation
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."**  
-
-</div>
-
-
-# ⚡ Fun Facts
-
-- 🔭 Currently building **Nova AI**
-- 🤖 Love working on **Artificial Intelligence**
-- 🚗 Building a **Car Showroom Website (MERN)**
-- 🛒 Developed a **Django E-Commerce Platform**
-- ☕ Coffee + Coding = Productivity
-- 🌍 Always exploring new technologies
-
-
-# 📅 Coding Activity
-
-```text
-Monday      ██████████████ 80%
-Tuesday     ████████████████ 90%
-Wednesday   █████████████ 75%
-Thursday    ███████████████ 85%
-Friday      █████████████████ 95%
-Saturday    ███████████ 70%
-Sunday      ████████ 60%
-
-
-# 💎 Profile Highlights
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge)
-
-![MERN](https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge)
-
-![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-Projects-red?style=for-the-badge)
-
-![React](https://img.shields.io/badge/React-Lover-61DAFB?style=for-the-badge)
-
-</div>
+---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🤖 Nova AI
+AI-powered SaaS platform with intelligent automation and a modern responsive UI.
 
-### 🤖 Nova AI
-An AI-powered SaaS platform featuring intelligent automation and modern UI.
+**Tech:** React • Node.js • Express • MongoDB • AI APIs
 
-**Tech Stack**
-- React
-- Node.js
-- Express
-- MongoDB
-- AI APIs
+---
 
-</td>
+## 👨‍🏫 AI Attendance System
+Face Recognition Attendance System using OpenCV.
 
-<td width="50%">
+**Tech:** Python • OpenCV • NumPy • SQLite
 
-### 👨‍🏫 AI Attendance System
-Face Recognition Attendance System using OpenCV and Python.
+---
 
-**Tech Stack**
-- Python
-- OpenCV
-- NumPy
-- SQLite
+## 🚗 Car Showroom Website
+Premium MERN Stack application for buying and selling vehicles.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Car Showroom Website
-A premium MERN Stack application for buying and selling cars.
-
-**Features**
+### Features
 - Authentication
-- Search & Filter
 - Admin Dashboard
+- Search & Filter
 - Responsive UI
+- MongoDB Database
 
-</td>
+---
 
-<td width="50%">
+## 🛒 Django E-Commerce Platform
 
-### 🛒 E-Commerce Website
-A full-stack e-commerce application with secure authentication.
+### Features
+- Authentication
+- Shopping Cart
+- Product Management
+- SQLite Database
 
-**Tech Stack**
-- Django
-- SQLite
-- HTML
-- CSS
-- JavaScript
+---
 
-</td>
-</tr>
-</table>
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=N-SHIBILSHAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-SHIBILSHAN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=N-SHIBILSHAN&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-SHIBILSHAN&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=N-SHIBILSHAN&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+- ✅ Python Internship – Spectrum Softtech Solutions
+- ✅ Built Full Stack MERN Applications
+- ✅ Developed AI Projects
+- ✅ Django Full Stack Development
+- ✅ Learning Cloud Computing
 
 ---
 
 # 🎓 Education
 
-🎓 **Bachelor of Engineering**
+**Bachelor of Engineering**  
+Computer Science and Engineering
 
-**Computer Science and Engineering**
-
-Nehru Institute of Engineering and Technology
+**Nehru Institute of Engineering and Technology**
 
 Expected Graduation: **2028**
 
 ---
 
----
-
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
 - ✅ Build AI SaaS Products
 - ✅ Master MERN Stack
@@ -317,33 +172,19 @@ Expected Graduation: **2028**
 
 ---
 
-# 🌟 Quote
+# 💡 Favorite Quote
 
-<div align="center">
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
-### "Code. Learn. Build. Repeat."
+---
 
-</div>
+# 📫 Contact
 
+- 📧 Email: **shibilshan714@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/shibilshan
+- 🐙 GitHub: https://github.com/N-SHIBILSHAN
 
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="https://github.com/N-SHIBILSHAN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shibilshan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shibilshan714@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
+---
 
 <div align="center">
 

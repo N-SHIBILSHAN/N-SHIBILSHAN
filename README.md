@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=N%20SHIBILSHAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Developer&descAlignY=58"/>
 
-# 👋 Hi, I'm N SHIBILSHAN
 
-### 🚀 Full Stack Developer | AI Developer | Computer Science Student
+
+### Full Stack Developer | AI Developer | Computer Science Student
 
 <img src="https://komarev.com/ghpvc/?username=N-SHIBILSHAN&label=Profile%20Views&style=for-the-badge"/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 💻 Passionate about building real-world software solutions.
 
@@ -172,11 +172,6 @@ Expected Graduation: **2028**
 
 ---
 
-# 💡 Favorite Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
 
 # 📫 Contact
 

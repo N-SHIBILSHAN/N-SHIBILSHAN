@@ -127,49 +127,6 @@ Premium MERN Stack application for buying and selling vehicles.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-SHIBILSHAN&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=N-SHIBILSHAN&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🏅 Achievements
-
-- ✅ Python Internship – Spectrum Softtech Solutions
-- ✅ Built Full Stack MERN Applications
-- ✅ Developed AI Projects
-- ✅ Django Full Stack Development
-- ✅ Learning Cloud Computing
-
----
-
-# 🎓 Education
-
-**Bachelor of Engineering**  
-Computer Science and Engineering
-
-**Nehru Institute of Engineering and Technology**
-
-Expected Graduation: **2028**
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Build AI SaaS Products
-- ✅ Master MERN Stack
-- ✅ Learn Cloud Computing
-- ✅ Contribute to Open Source
-- ✅ Land a Software Development Internship
-
 ---
 
 

@@ -23,7 +23,7 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
 🚀 Currently building modern AI-powered applications and scalable MERN Stack projects.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - MERN Stack
 - Artificial Intelligence

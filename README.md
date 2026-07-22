@@ -14,14 +14,14 @@
 
 #  About Me
 
-💻 Passionate about building real-world software solutions.
+ Passionate about building real-world software solutions.
 
-🎓 **BE Computer Science Engineering**  
+ **BE Computer Science Engineering**  
 Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
-🤖 Interested in Artificial Intelligence, Full Stack Development, Computer Vision, and Cloud Computing.
+ Interested in Artificial Intelligence, Full Stack Development, Computer Vision, and Cloud Computing.
 
-🚀 Currently building modern AI-powered applications and scalable MERN Stack projects.
+ Currently building modern AI-powered applications and scalable MERN Stack projects.
 
 ##  Currently Learning
 
@@ -30,12 +30,6 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 - Cloud Computing
 - System Design
 - Data Structures & Algorithms
-
-## 🎯 Career Goal
-
-- Become a Software Engineer
-- Build impactful AI products
-- Contribute to Open Source
 
 ---
 
@@ -51,7 +45,7 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 

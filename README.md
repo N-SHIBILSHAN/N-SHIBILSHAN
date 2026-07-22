@@ -63,21 +63,14 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
 # 🚀 Featured Projects
 
-## 🤖 Nova AI
+## 🤖 Aqua AI
 AI-powered SaaS platform with intelligent automation and a modern responsive UI.
 
-**Tech:** React • Node.js • Express • MongoDB • AI APIs
+**Tech:** React • Node.js • python • MongoDB • AI APIs • Yolov8 
 
 ---
 
-## 👨‍🏫 AI Attendance System
-Face Recognition Attendance System using OpenCV.
-
-**Tech:** Python • OpenCV • NumPy • SQLite
-
----
-
-## 🚗 Car Showroom Website
+##  Car Showroom Website
 Premium MERN Stack application for buying and selling vehicles.
 
 ### Features
@@ -89,7 +82,7 @@ Premium MERN Stack application for buying and selling vehicles.
 
 ---
 
-## 🛒 Django E-Commerce Platform
+##  Django E-Commerce Platform
 
 ### Features
 - Authentication
@@ -99,7 +92,7 @@ Premium MERN Stack application for buying and selling vehicles.
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -111,7 +104,7 @@ Premium MERN Stack application for buying and selling vehicles.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 

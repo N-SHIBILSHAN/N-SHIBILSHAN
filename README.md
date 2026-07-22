@@ -63,7 +63,7 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
 # 🚀 Featured Projects
 
-## 🤖 Aqua AI
+##  Aqua AI
 AI-powered SaaS platform with intelligent automation and a modern responsive UI.
 
 **Tech:** React • Node.js • python • MongoDB • AI APIs • Yolov8 
@@ -89,18 +89,6 @@ Premium MERN Stack application for buying and selling vehicles.
 - Shopping Cart
 - Product Management
 - SQLite Database
-
----
-
-#  GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=N-SHIBILSHAN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-SHIBILSHAN&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 

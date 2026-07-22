@@ -61,7 +61,7 @@ Nehru Institute of Engineering and Technology (Expected Graduation: **2028**)
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ##  Aqua AI
 AI-powered SaaS platform with intelligent automation and a modern responsive UI.
